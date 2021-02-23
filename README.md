@@ -1,6 +1,7 @@
 # vue-el-dashboard
 
 > A Vue.js project
+> learn vue2x demo
 
 ## Build Setup
 
